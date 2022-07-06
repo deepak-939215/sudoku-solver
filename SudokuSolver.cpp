@@ -2,7 +2,7 @@
 
 using namespace std;
 
-solver::solver();{
+solver::solver(){
 	bmk=false;
 }
 
